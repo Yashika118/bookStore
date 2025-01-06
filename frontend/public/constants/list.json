@@ -1,0 +1,139 @@
+
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Dive into enchanting tales, heroic adventures, and magical realms with our collection of storybooks.",
+        "price":0,
+        "category":"story",
+        "image":"https://rukminim2.flixcart.com/image/850/1000/k0o69ow0/book/6/0/9/cinderella-picture-book-original-imafkf2upjfugudx.jpeg?q=20&crop=false"
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title":"Packed with witty humor, hilarious anecdotes, and side-splitting punchlines, these books are your perfect escape from the ordinary.",
+        "price":20,
+        "category":"entertainment",
+        "image":"https://img.freepik.com/premium-photo/portrait-mime-man-artist-with-book_114963-15613.jpg?w=360"
+    },
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title":" From inspiring athlete biographies  to iconic moments in sports history, these books are a must-read for players, and enthusiasts alike.",
+        "price":50,
+        "category":"sports",
+        "image":"https://img.freepik.com/free-psd/gradient-sport-template-design_23-2149287760.jpg?t=st=1735735766~exp=1735739366~hmac=f5a0a0e39130414250e386c20a411ba7516a408e0a52a0167457e009d098b72c&w=740"
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title":"Immerse yourself in the world of music with our captivating collection of music books.",
+        "price":80,
+        "category":"music",
+        "image":"https://img.freepik.com/premium-photo/music-song-writing-equipment-blank-book-guitar-headphone-song-writing_39408-1810.jpg?w=826"
+    },
+    {
+        "id":5,
+        "name":"Science Book",
+        "title":"From mind-blowing discoveries and groundbreaking theories to hands-on experiments and inspiring stories of scientists, these books ignite curiosity and deepen your understanding of the world around us.",
+        "price":100,
+        "category":"science",
+        "image":"https://img.freepik.com/free-vector/science-lab-background_1284-9383.jpg?t=st=1735735935~exp=1735739535~hmac=7ff537f8a29c6de156c1773b96611264a44b386ecfc2edb9e398208bf7469bd8&w=740"
+    },
+    {
+        "id":6,
+        "name":"General Knowledge Book",
+        "title":"Explore fascinating facts, and broaden your horizons with our collection of general knowledge books.",
+        "price":0,
+        "category":"General knowledge",
+        "image":"https://img.freepik.com/free-vector/geopraphy-concept-with-retro-cartoon-school-lesson-set_1284-7502.jpg?ga=GA1.1.2010878072.1735727378&semt=ais_hybrid"
+    },
+    {
+        "id":7,
+        "name":"Chemistry Book",
+        "title":"Whether you're a student, educator, every step is closer to understanding the building blocks of our universe.",
+        "price":0,
+        "category":"chemistry",
+        "image":"https://img.freepik.com/premium-photo/classroom_23785-393.jpg?w=740"
+    },
+    {
+        "id":8,
+        "name":"Chemistry Book",
+        "title":"Whether you're a student, educator, every step is closer to understanding the building blocks of our universe.",
+        "price":0,
+        "category":"chemistry",
+        "image":"https://img.freepik.com/premium-photo/classroom_23785-393.jpg?w=740"
+    },
+    {
+        "id":9,
+        "name":"Chemistry Book",
+        "title":"Whether you're a student, educator, every step is closer to understanding the building blocks of our universe.",
+        "price":0,
+        "category":"chemistry",
+        "image":"https://img.freepik.com/premium-photo/classroom_23785-393.jpg?w=740"
+    },
+    {
+        "id":10,
+        "name":"Chemistry Book",
+        "title":"Whether you're a student, educator, every step is closer to understanding the building blocks of our universe.",
+        "price":0,
+        "category":"chemistry",
+        "image":"https://img.freepik.com/premium-photo/classroom_23785-393.jpg?w=740"
+    },
+    {
+        "id":11,
+        "name":"Chemistry Book",
+        "title":"Whether you're a student, educator, every step is closer to understanding the building blocks of our universe.",
+        "price":0,
+        "category":"chemistry",
+        "image":"https://img.freepik.com/premium-photo/classroom_23785-393.jpg?w=740"
+    },
+    {
+        "id":12,
+        "name":"Chemistry Book",
+        "title":"Whether you're a student, educator, every step is closer to understanding the building blocks of our universe.",
+        "price":0,
+        "category":"chemistry",
+        "image":"https://img.freepik.com/premium-photo/classroom_23785-393.jpg?w=740"
+    },
+    {
+        "id":13,
+        "name":"Chemistry Book",
+        "title":"Whether you're a student, educator, every step is closer to understanding the building blocks of our universe.",
+        "price":0,
+        "category":"chemistry",
+        "image":"https://img.freepik.com/premium-photo/classroom_23785-393.jpg?w=740"
+    },
+    {
+        "id":14,
+        "name":"Music Book",
+        "title":"Immerse yourself in the world of music with our captivating collection of music books.",
+        "price":80,
+        "category":"music",
+        "image":"https://img.freepik.com/premium-photo/music-song-writing-equipment-blank-book-guitar-headphone-song-writing_39408-1810.jpg?w=826"
+    },
+    {
+        "id":15,
+        "name":"Music Book",
+        "title":"Immerse yourself in the world of music with our captivating collection of music books.",
+        "price":80,
+        "category":"music",
+        "image":"https://img.freepik.com/premium-photo/music-song-writing-equipment-blank-book-guitar-headphone-song-writing_39408-1810.jpg?w=826"
+    },
+    {
+        "id":16,
+        "name":"Music Book",
+        "title":"Immerse yourself in the world of music with our captivating collection of music books.",
+        "price":80,
+        "category":"music",
+        "image":"https://img.freepik.com/premium-photo/music-song-writing-equipment-blank-book-guitar-headphone-song-writing_39408-1810.jpg?w=826"
+    },
+    {
+        "id":17,
+        "name":"Music Book",
+        "title":"Immerse yourself in the world of music with our captivating collection of music books.",
+        "price":80,
+        "category":"music",
+        "image":"https://img.freepik.com/premium-photo/music-song-writing-equipment-blank-book-guitar-headphone-song-writing_39408-1810.jpg?w=826"
+    }
+]
